@@ -67,7 +67,7 @@ DEFAULT_CONFIG = {
     "themesSelect": "themes/2024",
     "errorMinute": 1,
     "errorCount": 1,
-    "port": 12345,
+    "port": 8099,
     "showAdminAddr": 0,
     "robotsText": "User-agent: *\nDisallow: /",
 }
